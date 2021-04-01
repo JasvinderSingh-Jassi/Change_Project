@@ -30,7 +30,7 @@ Async/await,
 Matchers,
 Loops,
 Uploading files,
-Sending data,
+Sending Keys,
 Timeouts,
 Waits.
 
