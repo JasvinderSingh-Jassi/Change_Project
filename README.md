@@ -5,7 +5,7 @@ Protractor is an end-to-end test framework for Angular and AngularJS application
 
 # Installation
 
-Node Js\n
+Node Js/n
 Visual Studio
 Type Script,
 Java Script,
