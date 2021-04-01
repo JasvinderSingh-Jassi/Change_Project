@@ -32,7 +32,12 @@ Loops,
 Uploading files,
 Sending Keys,
 Timeouts,
-Waits.
+Waits,
+OnPrepare,
+BeforeAll,
+BeforeEach,
+AfterAll,
+AfterEach.
 
 # Report
 Protractor-beautiful-reporter is used to create test reports for web applications.
