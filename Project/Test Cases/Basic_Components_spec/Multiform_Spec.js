@@ -2,8 +2,6 @@
 let Multiform_Page = require('../../Page Objects/Multiform_Page');
 let util = require('../../TestUtil');
 let tc = require('../../TestConstant');
-const { browser } = require('protractor');
-//const { browser, element } = require('protractor');
 
 describe("Assert Multiform Section", () => {
 
