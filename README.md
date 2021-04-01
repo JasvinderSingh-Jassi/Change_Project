@@ -5,34 +5,34 @@ Protractor is an end-to-end test framework for Angular and AngularJS application
 
 # Installation
 
-Node Js/n
-Visual Studio
+Node Js,
+Visual Studio,
 Type Script,
 Java Script,
 Protractor,
 Jasmine,
 Protractor-beautiful-reporter,
-Beautify File,
+Beautify File.
 
 
 # Various concepts performed
 In various sections I have used page object model to design test cases for web application using describe and it blocks. Hence following concepts have been implemented :
 
-Assertion 
-Selection 
-Alert Accept 
-Submit
-Maximizing window
-Waiting for non angular 
-Exceptions
-Promises 
-Async/await
-Matchers
-Loops
-Uploading files
-Sending data
-Timeouts
-Waits
+Assertion, 
+Selection, 
+Alert Accept,
+Submit,
+Maximizing window,
+Waiting for non angular, 
+Exceptions,
+Promises, 
+Async/await,
+Matchers,
+Loops,
+Uploading files,
+Sending data,
+Timeouts,
+Waits.
 
 # Report
 Protractor-beautiful-reporter is used to create test reports for web applications.
