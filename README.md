@@ -35,4 +35,4 @@ Timeouts
 Waits
 
 # Report
-Protractor-beautiful-reporter is used to create test reports.
+Protractor-beautiful-reporter is used to create test reports for web applications.
