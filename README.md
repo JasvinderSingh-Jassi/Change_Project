@@ -15,7 +15,8 @@ Protractor-beautiful-reporter,
 Beautify File.
 
 
-# Various concepts performed
+# Various concepts implemented
+
 In various sections I have used page object model to design test cases for web application using describe and it blocks. Hence following concepts have been implemented :
 
 Assertion, 
@@ -39,5 +40,7 @@ BeforeEach,
 AfterAll,
 AfterEach.
 
+
 # Report
+
 Protractor-beautiful-reporter is used to create test reports for web applications.
