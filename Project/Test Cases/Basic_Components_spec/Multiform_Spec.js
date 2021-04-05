@@ -129,7 +129,6 @@ describe("Assert Multiform Section", () => {
     expect(Multiform_Page.submit.getText()).toEqual("Submit");
     Multiform_Page.submit.click();
 
-
     //Functionality of accept alert button
     browser.driver.switchTo().alert().accept();
    
