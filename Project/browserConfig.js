@@ -7,7 +7,7 @@ const chrome = {
 //Running tests in chrome browser parallelly with 3 browser instance
 const chrome_count3 = {
     'browserName': 'chrome',
-    'shardTestFiles': false,
+    'shardTestFiles': true,
 
     //Browser instance count
     'maxInstances': 3
