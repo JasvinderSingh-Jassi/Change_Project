@@ -9,7 +9,7 @@ let util = function () {
 
    this.wait = function (elem) {
 
-      browser.wait(EC.elementToBeClickable(elem), 30000).then(function () {
+      browser.wait(EC.elementToBeClickable(elem), 40000).then(function () {
 
       })
    };

@@ -52,9 +52,8 @@ const firefox_chrome_count2 = [{
 
         //Browser instance count
         'maxInstances': 2
-        
-    },
 
+    },
 
 ];
 
