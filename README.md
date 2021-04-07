@@ -19,7 +19,7 @@ Beautify File.
 
 In various sections I have used page object model to design test cases for web application using describe and it blocks. Hence following concepts have been implemented :
 
-Assertion
+Assertion,
 Selection, 
 Alert Accept,
 Submit,
