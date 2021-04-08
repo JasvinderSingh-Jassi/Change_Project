@@ -41,20 +41,6 @@ BeforeEach,
 AfterAll,
 AfterEach.
 
-# Various concepts performed in github
-
-Clone,
-Push,
-Pull,
-Commit,
-Branch,
-Add,
-Init,
-Diff,
-Merge,
-Restore,
-Checkout.
-
 
 # Report
 
