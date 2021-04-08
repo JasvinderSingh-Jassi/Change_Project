@@ -41,7 +41,7 @@ BeforeEach,
 AfterAll,
 AfterEach.
 
-# Various concepts implemented in github
+# Various concepts performed in github
 
 Clone,
 Push,
