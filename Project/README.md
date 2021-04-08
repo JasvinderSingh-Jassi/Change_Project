@@ -48,11 +48,11 @@ Push,
 Pull,
 Commit,
 Branch,
-add,
-init,
-diff,
-merge,
-restore.
+Add,
+Init,
+Diff,
+Merge,
+Restore.
 
 
 # Report
