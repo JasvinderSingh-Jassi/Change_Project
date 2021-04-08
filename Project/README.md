@@ -54,7 +54,6 @@ diff,
 merge,
 restore.
 
-
 # Report
 
 Protractor-beautiful-reporter is used to create test reports for web applications.
