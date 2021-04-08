@@ -12,7 +12,8 @@ Java Script,
 Protractor,
 Jasmine,
 Protractor-beautiful-reporter,
-Beautify File.
+Beautify File,
+Github.
 
 
 # Various concepts implemented
@@ -40,7 +41,23 @@ BeforeEach,
 AfterAll,
 AfterEach.
 
+# Various concepts implemented in github
+
+Clone,
+Push,
+Pull,
+Commit,
+Branch,
+add,
+init,
+diff,
+merge,
+restore.
+
 
 # Report
 
 Protractor-beautiful-reporter is used to create test reports for web applications.
+
+
+
