@@ -48,11 +48,21 @@ Push,
 Pull,
 Commit,
 Branch,
+<<<<<<< HEAD
 add,
 init,
 diff,
 merge,
 restore.
+=======
+Add,
+Init,
+Diff,
+Merge,
+Restore,
+Checkout.
+
+>>>>>>> f5a77731a6b1f3cbea8bbc4948345eaa05666f10
 
 # Report
 
