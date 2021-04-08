@@ -43,17 +43,17 @@ AfterEach.
 
 # Various concepts performed in github
 
-Clone,
-Push,
-Pull,
-Commit,
-Branch,
-Add,
-Init,
-Diff,
-Merge,
-Restore,
-Checkout.
+clone,
+push,
+pull,
+commit,
+branch,
+add,
+init,
+diff,
+merge,
+restore,
+checkout.
 
 
 # Report
