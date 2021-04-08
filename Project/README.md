@@ -52,7 +52,8 @@ Add,
 Init,
 Diff,
 Merge,
-Restore.
+Restore,
+Checkout.
 
 
 # Report
