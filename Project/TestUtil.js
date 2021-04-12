@@ -25,7 +25,6 @@ let util = function () {
       })
    };
 
-
    //function to getText from an element and match it with the value
 
    this.textMatch = function (elem, value) {
